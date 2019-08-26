@@ -1,0 +1,5 @@
+BDD需安装pip install behave
+pip install pyhamcrest
+
+
+settings.zip是pycharm配置
